@@ -1,0 +1,15 @@
+Webpack (import/exports)
+Babel
+Scss
+Eslint
+2 mods
+-dev dependensirs
+(dev-server, sourceMap(показывает шде ошибка в модуле), EsLint)
+prod (Minifid Code)
+
+
+Git 
+Production
+1.0.0
+Developmemt
+1.0.2
